@@ -1,5 +1,6 @@
 row='--------\n'
 col = '  |  |  \n'
+
 xo2 = (
     col +
     row +
